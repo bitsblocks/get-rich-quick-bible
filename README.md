@@ -192,10 +192,8 @@ Think big! bigger! biggest! Think next internet! Next printing press! Next alpha
 
 
 
-## Background
 
-
-_Questions & Answers_
+## Background - Questions & Answers
 
 ### Q: How do Bitcoins differ from "Platform" Hot Air app tokens? 20-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
 
