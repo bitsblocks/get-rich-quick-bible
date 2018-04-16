@@ -12,8 +12,7 @@ Hot Air Token Sales - Hodl! Hodl! Hodl! - To the Moon :chart_with_upwards_trend:
 ## Step 1: Sell hot air. How? 
 
 Package up the hot air in billions of tokens! 
-Find a symbol and a name 
-<!-- (lets say   )    todo: what name to use? -->
+Find a symbol and a name - lets say HERO and Herocoin -
 and how many decimals and you're in business!
 
 What is a hot air "platform" app token on the blockchain?
@@ -25,15 +24,15 @@ The token has:
 
 Let's quote the fineprint from the "Legal FAQ" from a "standard" token sale:
 
-> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes. 
-> Byte Heroes may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion. 
+> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc.. 
+> Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion. 
 > [Thanks for the free money and holding the bag!] 
 >
 > -- Source: Hero Legal FAQ
 
 - No value.
 
-It's all just "speculative", that is, hot air. Find greater fools to sell your tokens. How?
+It's all "speculative", that is, hot air. Find greater fools to sell your tokens. How?
 
 
 ## Step 2: Pump up your tokens. How?
@@ -75,7 +74,7 @@ Example Bounty Program:
 > Rules
 >
 > - Account must be at least 3 months old
-> - You must have liked https://www.facebook.com/HEROcoinio/
+> - You must have liked facebook.com/BE-A-HERO
 > - Only posts containing all of the above hashtags qualify
 > - You can qualify for this bounty with a minimum of 5 posts
 > - You can qualify for this bounty with a maximum of 1 post per day
@@ -106,7 +105,7 @@ Example Bounty Program:
 > - Facebook Account Like = 50 HERO
 >
 >
-> **Twitter Campaing**
+> **Twitter Campaign**
 >
 > Tweets on twitter must contain ALL of the following hashtags: #HERO #ICO #ethereum
 >
@@ -114,10 +113,10 @@ Example Bounty Program:
 >
 > - Account must be at least 3 months old
 > - Only Tweets containing all of the above hashtags qualify
-> - You must be following https://twitter.com/HEROcoinio
+> - You must be following twitter.com/BE-A-HERO
 > - You can qualify for this bounty with a maximum of 60 (re-)tweets
 > - You can qualify for this bounty with a maximum of 10 (re-)tweets per week
-> - Retweets must be retweeted from the official @herocoinio channel
+> - Retweets must be retweeted from the official @BE-A-HERO channel
 > - To be eligible for reward every participant must post in the Bounty thread links to his (re-)tweets till every Friday 23:59 UTC.
 >
 > REWARDS:
@@ -198,13 +197,13 @@ Think big! bigger! biggest! Think next internet! Next printing press! Next alpha
 
 _Questions & Answers_
 
-### Q: How do Bitcoins differ from "Platform" Hot Air app tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
+### Q: How do Bitcoins differ from "Platform" Hot Air app tokens? 20-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
 
 Crypto Currency (Bitcoin Accepted Here) vs App "Platform" Tokens
 
 Bitcoins get "mined" with every new block every ten minutes. You CANNOT buy newly minted bitcoins.
 The bitcoin "lottery" gives away FREE bitcoins
-to the lucky winner / number every ten minutes with every block added for the next TEN YEARS.
+to the lucky winner / number every ten minutes with every block added for the next TWENTY YEARS.
 
 Why a lottery? A random (secure) lottery - using the famous proof-of-work hashing crypto "puzzle" -
 is the fairest distribution between all network nodes / peers / players.
