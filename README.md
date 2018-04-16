@@ -39,7 +39,7 @@ It's all just "speculative", that is, hot air. Find greater fools to sell your t
 ## Step 2: Pump up your tokens. How?
 
 Setup and run a "bounty" program. Give away Free tokens!  Free tokens!  Free tokens! Free money! Free money! Free money!
-to everyone for for spreading the word, that is, pumping your tokens, by sharing, posting, uploading, joining 
+to everyone for spreading the word, that is, pumping your tokens, by sharing, posting, uploading, joining 
 channels & commenting in Facebook, Twitter, LinkedIn, YouTube, Personal Blog, Reddit, Bitcoin Talk, ... 
  
 
@@ -83,14 +83,14 @@ Example Bounty Program:
 >
 > REWARDS:
 >
-> - >1.000.000 Followers/friends = 10000 HERO tokens
-> - >500.000 Followers/friends = 5000 HERO tokens
-> - >100.000 Followers/friends = 1500 HERO tokens
-> - >50.000 Followers/friends = 750 HERO tokens
-> - >10.000 Followers/friends = 250 HERO tokens
-> - >1.000 Followers/friends = 50 HERO tokens
-> - >500 Followers = 25 HERO tokens
-> - >100 Followers = 10 HERO tokens
+> - \>1.000.000 Followers/friends = 10000 HERO tokens
+> - \>500.000 Followers/friends = 5000 HERO tokens
+> - \>100.000 Followers/friends = 1500 HERO tokens
+> - \>50.000 Followers/friends = 750 HERO tokens
+> - \>10.000 Followers/friends = 250 HERO tokens
+> - \>1.000 Followers/friends = 50 HERO tokens
+> - \>500 Followers = 25 HERO tokens
+> - \>100 Followers = 10 HERO tokens
 >
 > FACEBOOK LIKE
 >
@@ -124,25 +124,25 @@ Example Bounty Program:
 >
 > TWEET
 >
-> - >1.000.000 Followers: 20000 HERO tokens = €400
-> - >500.000 Followers: 10000 HERO tokens = €200
-> - >100.000 Followers: 4000 HERO tokens = €70
-> - >50.000 Followers: 2000 HERO tokens = €40
-> - >10.000 Followers: 1000 HERO tokens = €20
-> - >1.000 Followers: 400 HERO tokens = €7
-> - >500 Followers: 200 HERO tokens = €4
-> - >100 Followers: 40 HERO tokens = €0.8
+> - \>1.000.000 Followers: 20000 HERO tokens = €400
+> - \>500.000 Followers: 10000 HERO tokens = €200
+> - \>100.000 Followers: 4000 HERO tokens = €70
+> - \>50.000 Followers: 2000 HERO tokens = €40
+> - \>10.000 Followers: 1000 HERO tokens = €20
+> - \>1.000 Followers: 400 HERO tokens = €7
+> - \>500 Followers: 200 HERO tokens = €4
+> - \>100 Followers: 40 HERO tokens = €0.8
 >
 > RETWEET
 >
-> - >1.000.000 Followers: 10000 HERO tokens = €200
-> - >500.000 Followers: 5000 HERO tokens = €100
-> - >100.000 Followers: 2000 HERO tokens = €40
-> - >50.000 Followers: 1000 HERO tokens = €20
-> - >10.000 Followers: 400 HERO tokens = €8
-> - >1.000 Followers: 200 HERO tokens = €4
-> - >500 Followers: 100 HERO tokens = €2
-> - >100 Followers: 20 HERO tokens = €0.4
+> - \>1.000.000 Followers: 10000 HERO tokens = €200
+> - \>500.000 Followers: 5000 HERO tokens = €100
+> - \>100.000 Followers: 2000 HERO tokens = €40
+> - \>50.000 Followers: 1000 HERO tokens = €20
+> - \>10.000 Followers: 400 HERO tokens = €8
+> - \>1.000 Followers: 200 HERO tokens = €4
+> - \>500 Followers: 100 HERO tokens = €2
+> - \>100 Followers: 20 HERO tokens = €0.4
 > 
 > TWITTER FOLLOW
 >
