@@ -24,7 +24,7 @@ The token has:
 
 Let's quote the fineprint from the "Legal FAQ" from a "standard" token sale:
 
-> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc.. 
+> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc. 
 > Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion. 
 > [Thanks for the free money and holding the bag!] 
 >
@@ -222,3 +222,88 @@ you're off in ten minutes!
 
 Free easy money! Buyer beware! Do NOT get scammed by the promise of returns of 50 000% on your "investment" 
 and the fear of missing out (FOMO) on the next bitcoin.
+
+
+
+### Q: What's an Initial Coin Offering (ICO) / Token Sales?
+
+Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://davidgerard.co.uk/blockchain/icos-magic-beans-and-bubble-machines/) from the book [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/) by David Gerard.
+
+> Token offerings have been around a while, but kicked off enormously in the second bubble. 
+> The usual pretext is crowdfunding, but in practice the tokens are just traded on the exchanges as commodities. 
+> The creators then cash in. The value proposition for buyers is, as for the creators, easy money in a bubble.
+>
+> -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
+
+
+
+### Q: What's a Token Sale Scam?
+
+A: If you buy these digital tokens (on the blockchain) giving free money
+as a donation / gift to a company to revolutionize 
+the world one block at a time than everything is ok.
+
+If you buy these digital token (on the blockchain) trying to get rich (quick)
+by selling them at a higher price to a greater fool than - surprise, surprise - 
+you're getting scammed.
+
+Let's quote the fineprint from the "Legal FAQ" from a "standard" token sale:
+
+> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc. 
+> Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion. 
+> [Thanks for the free money and holding the bag!] 
+>
+> -- Source: Hero Legal FAQ
+
+The point is ... you own binary bits (on the blockchain) and
+the value is ... excactly zero.  You say? Wait, but the token value is not (yet) excactly zero.
+HODL! HODL! How much richer are you today? 
+
+Ask yourself why should the company work hard, hard, hard to make you rich, rich, rich 
+when - surprise, surprise - the company already collected all the free money from greater fools 
+and  - surprise, surprise - you have zero legal claim to anything. 
+Welcome to the world of business! Buyer beware! 
+
+
+### Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
+
+A: Money! Money! Money! Breaking news: Free easy money corrupts.
+
+Breaking news: Building a "platform" to revolutionize the online betting market, tourism, token trading, ...  
+you need to work, work, work hard
+and - surprise, surprise - you need code monkeys (programmers).
+Clicky, clicky, clicky and putting on a great dazzling marketing show is NOT good enough.
+
+Ask these companies and happy faces where's the code, code, code?
+
+Remember: Like secure cryptographic algorithms are by definition open - in the 21st century you can by 
+definition only
+build open decentralized platforms with open (source) code.
+
+Ask these companies where are the daily check-ins, check-ins, check-ins?
+Where are the daily commits, commits, commits? (†)
+
+Remember: Running (working) code wins.
+
+Without open (source) code for all to see the white paper promises are just dreams or
+let's name it straight - big lies and cash grab scams.
+Thanks for the free money and hodling the bag! 
+
+
+
+---
+
+**Disclaimer: Short version: Please think for yourself.** 
+
+**Long version: Nothing contained on these pages is, or should be construed as providing or offering, investment, legal, accounting, tax or other advice. Do not act on any opinion expressed here without consulting a qualified professional. Note: The writers do not hold a position in any crypto tokens or cryptocurrency or blockchain company.**
+
+---
+
+**New to CryptoCurrencies and CryptoTokens?**
+
+**See the [Last Week Tonight with John Oliver (HBO) Video on CryptoCurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
+
+**Digital currencies and "platform" app tokens 
+are generating a lot of get-rich-quick excitement. 
+John Oliver enlists Keegan-Michael Key to get potential investors 
+equally excited about the concept of caution. Buyer beware!**
