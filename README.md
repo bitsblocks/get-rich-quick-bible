@@ -322,6 +322,25 @@ Savedroid Corp., Frankfurt/Main, Germany
 
 Cryptocurrencies for Everyone - Now! Give Power to the People. Join the Revolution!
 
+Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
+
+> A key question that everyone should ask before buying into an ICO is: 
+> what will the tokens be used for? In the case of savedroid, 
+> the token will become the key payment in the new crypto ecosystem of the company - 
+> and therefore has good chances to show a strong performance if savedroid’s crypto simplification strategy works:
+
+
+![](i/savedroid-magic.png)
+
+> The savedroid token (SVD) is a utility token and will be used to purchase the crypto services within the savedroid ecosystem.
+> Users of savedroid's automated crypto saving and investing will have to use the savedroid token to pay the fees of these crypto
+> services. It has a built-in deflation mechanism to support its future value.
+> Users can buy or sell the SVD in supported token exchanges.
+
+(Source: [Official Savedroid ICO News - What the tokens will be used for](https://medium.com/@ico_8796/savedroid-ico-what-the-tokens-will-be-used-for-d88011554638), February 6th, 2018)
+
+
+
 ![](i/aannditsgone.png)
 
 (Source: [`ico.savedroid.com` Website](http://ico.savedroid.com), April 18th, 2018)
