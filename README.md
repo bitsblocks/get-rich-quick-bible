@@ -3,6 +3,10 @@
 
 -- [PhD, Savedroid Founder & CEO, Co-Host FinTechFFM, Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
 
+![](i/tweet-savedroid-crypto-history.png)
+
+-- [Savedroid Founder & CTO, Partner @sitewards. Organizes @ai_ffm](https://twitter.com/airbone42/status/972135040393113600)
+
 
 
 _The Secrets of Free Easy Money -
@@ -340,6 +344,13 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 (Source: [Official Savedroid ICO News - What the tokens will be used for](https://medium.com/@ico_8796/savedroid-ico-what-the-tokens-will-be-used-for-d88011554638), February 6th, 2018)
 
+
+![](i/tweet-savedroid-fintech-startup-of-the-year.png)
+
+
+![](i/tweet-savedroid-crypto-history.png)
+
+-- [Savedroid Founder & CTO, Partner @sitewards. Organizes @ai_ffm](https://twitter.com/airbone42/status/972135040393113600)
 
 
 ![](i/aannditsgone.png)
