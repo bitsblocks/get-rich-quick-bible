@@ -316,11 +316,37 @@ equally excited about the concept of caution. Buyer beware!**
 
 ## Fast Exit Case Studies
 
-### Savedroid (SVD) - $40m - Thanks Guys! Over and Out ... Next Stop the Mediterranean Sea / Beach
+### Savedroid (SVD) - $50m - Thanks Guys! Over and Out ... Next Stop the Mediterranean Sea / Beach
+
+Savedroid Corp., Frankfurt/Main, Germany
+
+Cryptocurrencies for Everyone - Now! Give Power to the People. Join the Revolution!
 
 ![](i/aannditsgone.png)
 
-((Source: [ico.savedroid.com Website, April 18th, 2018](http://ico.savedroid.com))
+(Source: [`ico.savedroid.com` Website](http://ico.savedroid.com), April 18th, 2018)
+
+
+![](i/tweet-savedroid-thanks.png)
+
+-- [PhD, Savedroid Founder & CEO, Co-Host FinTechFFM, Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
+
+
+> The founders of cryptocurrency startup Savedroid appear to have exit-scammed investors following 
+> the conclusion of its initial coin offering (ICO).
+>
+> On Wednesday, the website for the German company unexpectedly went offline and has since been replaced by a single image - 
+> the "Aannd It's Gone" meme, which first originated on South Park.
+>
+> And in case investors still did not get the message, Yassin Hankir, the project's founder and CEO, 
+> published a Twitter post that showed him in an airport and later on a beach, holding a beer.
+>
+> "Thanks guys! Over and out.. #savedroidICO" he wrote.  
+>
+> -- [ICO News, Over and Out: $50 Million Savedroid ICO Makes Apparent Exit Scam](https://www.ccn.com/over-and-out-savedroid-ico-makes-apparent-exit-scam/), April 18th, 2018
+
+
+
 
 
 
