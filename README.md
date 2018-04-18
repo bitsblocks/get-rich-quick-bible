@@ -1,4 +1,10 @@
 
+![](i/tweet-savedroid-thanks.png)
+
+-- [PhD, Savedroid Founder & CEO, Co-Host FinTechFFM, Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
+
+
+
 _The Secrets of Free Easy Money -
 From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) -
 Hot Air Token Sales - Hodl! Hodl! Hodl! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend:_
