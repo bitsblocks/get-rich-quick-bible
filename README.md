@@ -311,3 +311,17 @@ Thanks for the free money and hodling the bag!
 are generating a lot of get-rich-quick excitement. 
 John Oliver enlists Keegan-Michael Key to get potential investors 
 equally excited about the concept of caution. Buyer beware!**
+
+---
+
+## Fast Exit Case Studies
+
+### Savedroid (SVD) - $40m - Thanks Guys! Over and Out ... Next Stop the Mediterranean Sea / Beach
+
+![](i/aannditsgone.png)
+
+((Source: [ico.savedroid.com Website, April 18th, 2018](http://ico.savedroid.com))
+
+
+
+
