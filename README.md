@@ -342,7 +342,7 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 <!-- break -->
 
-Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box - The Magic Gold Mine! - Scam Alert! Scam Alert! Scam Alert!
+Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box - The Magic Savedroid (SVD) Gold Mine! - Scam Alert! Scam Alert! Scam Alert!
 
 <!-- Turn (Fiat) Cash Into Crypto (Lambos) Bullshit  -- add why? why not??
  -->
