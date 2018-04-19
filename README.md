@@ -364,14 +364,23 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 ![](i/tweet-savedroid-fintech-startup-of-the-year.png)
 
 
-![](i/aannditsgone.png)
 
-(Source: [`ico.savedroid.com` Website](http://ico.savedroid.com), April 18th, 2018)
+![](i/savedroid-ico.png)
+
+![](i/savedroid-ico-ii.png)
+
+(Source: [`ico.savedroid.com` Website](http://ico.savedroid.com), April 17th, 2018)
+
 
 
 ![](i/tweet-savedroid-thanks.png)
 
 -- [PhD, Savedroid Founder & CEO, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
+
+![](i/aannditsgone.png)
+
+(Source: [`ico.savedroid.com` Website](http://ico.savedroid.com), April 18th, 2018)
+
 
 
 > The founders of cryptocurrency startup Savedroid appear to have exit-scammed investors following
