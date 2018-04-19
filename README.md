@@ -3,11 +3,6 @@
 
 -- [PhD, Savedroid Founder & CEO, Co-Host FinTechFFM, Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
 
-![](i/tweet-savedroid-crypto-history.png)
-
--- [Savedroid Founder & CTO, Partner @sitewards. Organizes @ai_ffm](https://twitter.com/airbone42/status/972135040393113600)
-
-
 
 _The Secrets of Free Easy Money -
 From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) -
@@ -20,9 +15,9 @@ To the Beach_
 
 
 
-## Step 1: Sell hot air. How? 
+## Step 1: Sell hot air. How?
 
-Package up the hot air in billions of tokens! 
+Package up the hot air in billions of tokens!
 Find a symbol and a name - lets say HERO and Herocoin -
 and how many decimals and you're in business!
 
@@ -35,9 +30,9 @@ The token has:
 
 Let's quote the fineprint from the "Legal FAQ" from a "standard" token sale:
 
-> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc. 
-> Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion. 
-> [Thanks for the free money and holding the bag!] 
+> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc.
+> Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion.
+> [Thanks for the free money and holding the bag!]
 >
 > -- Source: Hero Legal FAQ
 
@@ -49,19 +44,19 @@ It's all "speculative", that is, hot air. Find greater fools to sell your tokens
 ## Step 2: Pump up your tokens. How?
 
 Setup and run a "bounty" program. Give away Free tokens!  Free tokens!  Free tokens! Free money! Free money! Free money!
-to everyone for spreading the word, that is, pumping your tokens, by sharing, posting, uploading, joining 
-channels & commenting in Facebook, Twitter, LinkedIn, YouTube, Personal Blog, Reddit, Bitcoin Talk, ... 
- 
+to everyone for spreading the word, that is, pumping your tokens, by sharing, posting, uploading, joining
+channels & commenting in Facebook, Twitter, LinkedIn, YouTube, Personal Blog, Reddit, Bitcoin Talk, ...
 
-Example Bounty Program: 
 
-> Hero Token is starting their Official Bounty Program in order to reward supporters, 
+Example Bounty Program:
+
+> Hero Token is starting their Official Bounty Program in order to reward supporters,
 > and it has the biggest Bounty Pools to be awarded ever!
 >
 > The Program will run until the end of the token sales / initial coin offering (ICO).
 >
-> A total of 2% Hero Tokens from the Total Supply of Hero Tokens are reserved for the Bounty Campaigns. 
-> If the hard cap is reached, that amounts to 1.25M Hero Tokens ( 6250 ETH or $1.875M at a price of 300$/ETH ). 
+> A total of 2% Hero Tokens from the Total Supply of Hero Tokens are reserved for the Bounty Campaigns.
+> If the hard cap is reached, that amounts to 1.25M Hero Tokens ( 6250 ETH or $1.875M at a price of 300$/ETH ).
 >
 >
 > Total Bounty Pool will be divided As Follows:
@@ -153,7 +148,7 @@ Example Bounty Program:
 > - \>1.000 Followers: 200 HERO tokens = €4
 > - \>500 Followers: 100 HERO tokens = €2
 > - \>100 Followers: 20 HERO tokens = €0.4
-> 
+>
 > TWITTER FOLLOW
 >
 > Follow us on Twitter to earn your coins
@@ -165,7 +160,7 @@ Example Bounty Program:
 >   
 > REWARDS:
 >
-> - Twitter Follow = 50 HERO tokens 
+> - Twitter Follow = 50 HERO tokens
 >
 >
 > and on and on and on
@@ -221,15 +216,15 @@ vs
 
 
 App tokens do NOT get mined. You can create / mint as many tokens as you like!
-Just punch / type in a number - lets say two billion. 
+Just punch / type in a number - lets say two billion.
 Sell off 30% in an "initial coin offering" (ICO) / token sales to greater fools
 in a free money get-rich-quick cash grab running for lets say two or three weeks
 and keep the rest "in reserve" for yourself.
 
 It's that easy and with the ready-to-use/ready-to-run Ethereum blockchain / network
-you're off in ten minutes! 
+you're off in ten minutes!
 
-Free easy money! Buyer beware! Do NOT get scammed by the promise of returns of 50 000% on your "investment" 
+Free easy money! Buyer beware! Do NOT get scammed by the promise of returns of 50 000% on your "investment"
 and the fear of missing out (FOMO) on the next bitcoin.
 
 
@@ -238,8 +233,8 @@ and the fear of missing out (FOMO) on the next bitcoin.
 
 Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://davidgerard.co.uk/blockchain/icos-magic-beans-and-bubble-machines/) from the book [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/) by David Gerard.
 
-> Token offerings have been around a while, but kicked off enormously in the second bubble. 
-> The usual pretext is crowdfunding, but in practice the tokens are just traded on the exchanges as commodities. 
+> Token offerings have been around a while, but kicked off enormously in the second bubble.
+> The usual pretext is crowdfunding, but in practice the tokens are just traded on the exchanges as commodities.
 > The creators then cash in. The value proposition for buyers is, as for the creators, easy money in a bubble.
 >
 > -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
@@ -249,29 +244,29 @@ Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://dav
 ### Q: What's a Token Sale Scam?
 
 A: If you buy these digital tokens (on the blockchain) giving free money
-as a donation / gift to a company to revolutionize 
+as a donation / gift to a company to revolutionize
 the world one block at a time than everything is ok.
 
 If you buy these digital token (on the blockchain) trying to get rich (quick)
-by selling them at a higher price to a greater fool than - surprise, surprise - 
+by selling them at a higher price to a greater fool than - surprise, surprise -
 you're getting scammed.
 
 Let's quote the fineprint from the "Legal FAQ" from a "standard" token sale:
 
-> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc. 
-> Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion. 
-> [Thanks for the free money and holding the bag!] 
+> HERO - in whatever form – do NOT represent a claim on or against Byte Heroes, Inc.
+> Byte Heroes, Inc. may decide NOT to exchange HEROs - in whatever form - at ANY time at their sole discretion.
+> [Thanks for the free money and holding the bag!]
 >
 > -- Source: Hero Legal FAQ
 
 The point is ... you own binary bits (on the blockchain) and
 the value is ... excactly zero.  You say? Wait, but the token value is not (yet) excactly zero.
-HODL! HODL! How much richer are you today? 
+HODL! HODL! How much richer are you today?
 
-Ask yourself why should the company work hard, hard, hard to make you rich, rich, rich 
-when - surprise, surprise - the company already collected all the free money from greater fools 
-and  - surprise, surprise - you have zero legal claim to anything. 
-Welcome to the world of business! Buyer beware! 
+Ask yourself why should the company work hard, hard, hard to make you rich, rich, rich
+when - surprise, surprise - the company already collected all the free money from greater fools
+and  - surprise, surprise - you have zero legal claim to anything.
+Welcome to the world of business! Buyer beware!
 
 
 ### Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
@@ -285,7 +280,7 @@ Clicky, clicky, clicky and putting on a great dazzling marketing show is NOT goo
 
 Ask these companies and happy faces where's the code, code, code?
 
-Remember: Like secure cryptographic algorithms are by definition open - in the 21st century you can by 
+Remember: Like secure cryptographic algorithms are by definition open - in the 21st century you can by
 definition only
 build open decentralized platforms with open (source) code.
 
@@ -296,13 +291,13 @@ Remember: Running (working) code wins.
 
 Without open (source) code for all to see the white paper promises are just dreams or
 let's name it straight - big lies and cash grab scams.
-Thanks for the free money and hodling the bag! 
+Thanks for the free money and hodling the bag!
 
 
 
 ---
 
-**Disclaimer: Short version: Please think for yourself.** 
+**Disclaimer: Short version: Please think for yourself.**
 
 **Long version: Nothing contained on these pages is, or should be construed as providing or offering, investment, legal, accounting, tax or other advice. Do not act on any opinion expressed here without consulting a qualified professional. Note: The writers do not hold a position in any crypto tokens or cryptocurrency or blockchain company.**
 
@@ -312,9 +307,9 @@ Thanks for the free money and hodling the bag!
 
 **See the [Last Week Tonight with John Oliver (HBO) Video on CryptoCurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
 
-**Digital currencies and "platform" app tokens 
-are generating a lot of get-rich-quick excitement. 
-John Oliver enlists Keegan-Michael Key to get potential investors 
+**Digital currencies and "platform" app tokens
+are generating a lot of get-rich-quick excitement.
+John Oliver enlists Keegan-Michael Key to get potential investors
 equally excited about the concept of caution. Buyer beware!**
 
 ---
@@ -329,8 +324,8 @@ Cryptocurrencies for Everyone - Now! Give Power to the People. Join the Revoluti
 
 Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
-> A key question that everyone should ask before buying into an ICO is: 
-> what will the tokens be used for? In the case of savedroid, 
+> A key question that everyone should ask before buying into an ICO is:
+> what will the tokens be used for? In the case of savedroid,
 > the token will become the key payment in the new crypto ecosystem of the company - 
 > and therefore has good chances to show a strong performance if savedroid’s crypto simplification strategy works:
 
@@ -363,13 +358,13 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 -- [PhD, Savedroid Founder & CEO, Co-Host FinTechFFM, Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
 
 
-> The founders of cryptocurrency startup Savedroid appear to have exit-scammed investors following 
+> The founders of cryptocurrency startup Savedroid appear to have exit-scammed investors following
 > the conclusion of its initial coin offering (ICO).
 >
-> On Wednesday, the website for the German company unexpectedly went offline and has since been replaced by a single image - 
+> On Wednesday, the website for the German company unexpectedly went offline and has since been replaced by a single image -
 > the "Aannd It's Gone" meme, which first originated on South Park.
 >
-> And in case investors still did not get the message, Yassin Hankir, the project's founder and CEO, 
+> And in case investors still did not get the message, Yassin Hankir, the project's founder and CEO,
 > published a Twitter post that showed him in an airport and later on a beach, holding a beer.
 >
 > "Thanks guys! Over and out.. #savedroidICO" he wrote.  
@@ -377,8 +372,10 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 > -- [ICO News, Over and Out: $50 Million Savedroid ICO Makes Apparent Exit Scam](https://www.ccn.com/over-and-out-savedroid-ico-makes-apparent-exit-scam/), April 18th, 2018
 
 
-
-
-
-
-
+> The CEO on their twitter feed posted this several times
+> 'contribute now to participate in our #Airdrop and become a #Crypto Millionaire.'
+> Not about technology, its all about GIVE US MONEY AND WE WILL MAKE YOU A MILLIONAIRE.
+> Anyone who fell for this despite all the warning signs can blame no one but
+> themselves.
+>
+> -- [TechCrunch News, Another day, another $50 million ICO exit scam](https://techcrunch.com/2018/04/18/another-day-another-50-million-ico-exit-scam/), April 18th, 2018
