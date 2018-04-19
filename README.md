@@ -322,6 +322,8 @@ Savedroid Corp., Frankfurt/Main, Germany
 
 Cryptocurrencies for Everyone - Now! Give Power to the People. Join the Revolution!
 
+![](i/tweet-savedroid-fintech-startup-of-the-year.png)
+
 Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 > A key question that everyone should ask before buying into an ICO is:
@@ -359,10 +361,6 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 > [Thanks for the free money and HODLing the bag!].
 
 (Source: [Official Savedroid ICO News - What the tokens will be used for](https://medium.com/@ico_8796/savedroid-ico-what-the-tokens-will-be-used-for-d88011554638), February 6th, 2018)
-
-
-![](i/tweet-savedroid-fintech-startup-of-the-year.png)
-
 
 
 ![](i/savedroid-ico.png)
