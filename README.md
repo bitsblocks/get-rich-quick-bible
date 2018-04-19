@@ -371,6 +371,18 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 
 
+![](i/savedroid-roadmap.png)
+
+(Source: [`ico.savedroid.com/roadmap` Website](http://ico.savedroid.com/roadmap))
+
+
+> We are part of Deutsche Börse's FinTech Hub and Venture Network and collaborate 
+> with various prestigious Business-to-Business (B2B) partners.
+> In fact, savedroid is the first initial coin offering (ICO) of a German stock corporation 
+> that follows German legislation and regulation to provide participants with the highest level of security.
+
+
+
 ![](i/tweet-savedroid-thanks.png)
 
 -- [Savedroid Founder & CEO, PhD, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
