@@ -1,12 +1,12 @@
 
-![](i/tweet-savedroid-thanks.png)
+![](i/tweet-savedroid-thanks-small.png)
 
--- [PhD, Savedroid Founder & CEO, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
+-- [Savedroid Founder & CEO, PhD, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
 
 
 _The Secrets of Free Easy Money -
 From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) -
-Hot Air Token Sales - Hodl! Hodl! Hodl! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: -
+Hot Air Token Sales - HODL! HODL! HODL! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: -
 To the Beach_
 
 
@@ -341,7 +341,7 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 <!-- break -->
 
-> Within savedroid's unique [self-learning secret-sauce block-box] artificial intelligence (AI) fueled ecosystem, 
+> Within savedroid's unique [self-learning secret-sauce black-box] artificial intelligence (AI) fueled ecosystem, 
 > users will profit from convenient crypto saving plans and superior crypto investment opportunities, 
 > such as portfolios, derivatives, and ICOs. 
 > savedroid will conveniently auto-convert savings to cryptocurrencies, 
@@ -373,7 +373,7 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 ![](i/tweet-savedroid-thanks.png)
 
--- [PhD, Savedroid Founder & CEO, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
+-- [Savedroid Founder & CEO, PhD, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
 
 ![](i/aannditsgone.png)
 
