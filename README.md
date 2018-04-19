@@ -339,7 +339,21 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 > services. It has a built-in deflation mechanism to support its future value.
 > Users can buy or sell the SVD in supported token exchanges.
 
+
 <!-- break -->
+
+Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box - The Magic Gold Mine! - Scam Alert! Scam Alert! Scam Alert!
+
+<!-- Turn (Fiat) Cash Into Crypto (Lambos) Bullshit  -- add why? why not??
+ -->
+
+![](i/savedroid-roadmap.png)
+
+
+<!--
+(Source: [`ico.savedroid.com/roadmap` Website](http://ico.savedroid.com/roadmap))
+-->
+
 
 > Within savedroid's unique [self-learning secret-sauce black-box] artificial intelligence (AI) fueled ecosystem, 
 > users will profit from convenient crypto saving plans and superior crypto investment opportunities, 
@@ -370,10 +384,6 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 (Source: [`ico.savedroid.com` Website](http://ico.savedroid.com), April 17th, 2018)
 
 
-
-![](i/savedroid-roadmap.png)
-
-(Source: [`ico.savedroid.com/roadmap` Website](http://ico.savedroid.com/roadmap))
 
 
 > We are part of Deutsche Börse's FinTech Hub and Venture Network and collaborate 
