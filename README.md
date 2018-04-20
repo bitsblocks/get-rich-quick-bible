@@ -359,7 +359,7 @@ Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box Bullshit - The
 free easy money for everyone
 
 2024  -- Self-learning AI algorithm enabling singularity. Machines scam the mere mortal human dummies
-and run off with the easy free money. Your savings are gone
+and run off with the free easy money. Your savings are gone
 
 
 
