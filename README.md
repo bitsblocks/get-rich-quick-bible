@@ -342,7 +342,7 @@ Q: Savedroid Initial Coin Offering (ICO): What the tokens will be used for?
 
 <!-- break -->
 
-Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box - The Magic Savedroid (SVD) Gold Mine! - Scam Alert! Scam Alert! Scam Alert!
+Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box Bullshit - The Magic Savedroid (SVD) Gold Mine! - Scam Alert! Scam Alert! Scam Alert!
 
 <!-- Turn (Fiat) Cash Into Crypto (Lambos) Bullshit  -- add why? why not??
  -->
@@ -353,6 +353,14 @@ Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box - The Magic Sa
 <!--
 (Source: [`ico.savedroid.com/roadmap` Website](http://ico.savedroid.com/roadmap))
 -->
+
+
+2022  -- Self-learning AI algorithm enables world peace / paradise providing
+free easy money for everyone
+
+2024  -- Self-learning AI algorithm singularity. Machines scam the mere mortal human dummies
+and run off with the easy free money. Your savings are gone
+
 
 
 > Within savedroid's unique [self-learning secret-sauce black-box] artificial intelligence (AI) fueled ecosystem, 
