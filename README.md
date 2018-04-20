@@ -355,10 +355,10 @@ Self-Learning Secret-Sauce Artificial Intelligence (AI) Black-Box Bullshit - The
 -->
 
 
-2022  -- Self-learning AI algorithm enables world peace / paradise providing
+2022  -- Self-learning AI algorithm enabling world peace / paradise providing
 free easy money for everyone
 
-2024  -- Self-learning AI algorithm singularity. Machines scam the mere mortal human dummies
+2024  -- Self-learning AI algorithm enabling singularity. Machines scam the mere mortal human dummies
 and run off with the easy free money. Your savings are gone
 
 
