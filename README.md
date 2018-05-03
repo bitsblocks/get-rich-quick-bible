@@ -196,8 +196,7 @@ Think big! bigger! biggest! Think next internet! Next printing press! Next alpha
 ### Revolutionize Token Exchanges / Trades
 
 
-
-
+![](i/tweet-philosophers-ico.png)
 
 
 
