@@ -175,7 +175,7 @@ Get inspired by / copy / clone  hot air (no value) "platform" app token ideas fr
 Think big! bigger! biggest! Think next internet! Next printing press! Next alphabet!
 
 
-![](i/i/trolly-ponzi.png)
+![](i/trolly-ponzi.png)
 
 
 ### Revolutionize E-Sports / Betting
