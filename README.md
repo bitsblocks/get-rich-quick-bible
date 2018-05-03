@@ -175,6 +175,8 @@ Get inspired by / copy / clone  hot air (no value) "platform" app token ideas fr
 Think big! bigger! biggest! Think next internet! Next printing press! Next alphabet!
 
 
+![](i/i/trolly-ponzi.png)
+
 
 ### Revolutionize E-Sports / Betting
 
@@ -183,6 +185,9 @@ Think big! bigger! biggest! Think next internet! Next printing press! Next alpha
 
 
 ### Revolutionize Crowdfunding
+
+
+### Revolutionize Investing / Saving
 
 
 ### Revolutionize Business-to-Business (B2B) Commerce / Trade
@@ -263,10 +268,15 @@ The point is ... you own binary bits (on the blockchain) and
 the value is ... excactly zero.  You say? Wait, but the token value is not (yet) excactly zero.
 HODL! HODL! How much richer are you today?
 
+
+![](i/trolly-eos.png)
+
 Ask yourself why should the company work hard, hard, hard to make you rich, rich, rich
 when - surprise, surprise - the company already collected all the free money from greater fools
 and  - surprise, surprise - you have zero legal claim to anything.
 Welcome to the world of business! Buyer beware!
+
+![](i/trolly-cryptosplit.png)
 
 
 ### Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
@@ -293,7 +303,7 @@ Without open (source) code for all to see the white paper promises are just drea
 let's name it straight - big lies and cash grab scams.
 Thanks for the free money and hodling the bag!
 
-
+![](i/trolly-ico.png)
 
 ---
 
