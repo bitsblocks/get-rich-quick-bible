@@ -235,6 +235,11 @@ Free easy money! Buyer beware! Do NOT get scammed by the promise of returns of 5
 and the fear of missing out (FOMO) on the next bitcoin.
 
 
+What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
+
+![](i/trolly-icos-btc.png)
+
+
 
 ### Q: What's an Initial Coin Offering (ICO) / Token Sales?
 
