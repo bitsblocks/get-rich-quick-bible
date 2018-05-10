@@ -2,16 +2,16 @@
 title:  Get Rich Quick "Business Blockchain" Bible
 ---
 
+_The Secrets of Free Easy Money -
+From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) -
+Hot Air Token Sales - HODL! HODL! HODL! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: -
+To the Beach_
+
 
 ![](i/tweet-savedroid-thanks-small.png)
 
 -- [Savedroid Founder & CEO, PhD, Co-Host FinTech Frankfurt/Main (FFM), Former McKinsey & Company Banking Consultant](https://twitter.com/YassinHankir/status/986551967932735488)
 
-
-_The Secrets of Free Easy Money -
-From Zero to Twenty Million in Three Weeks - 500 000+% Return on Investment (ROI) -
-Hot Air Token Sales - HODL! HODL! HODL! - To the Moon :chart_with_upwards_trend::chart_with_upwards_trend::chart_with_upwards_trend: -
-To the Beach_
 
 
 ## Step 1: Sell hot air. How?
