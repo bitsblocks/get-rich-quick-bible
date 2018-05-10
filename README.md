@@ -1,9 +1,7 @@
-<!--
 
 See the live version @ [`bitsblocks.github.io/get-rich-quick-bible`](http://bitsblocks.github.io/get-rich-quick-bible)
 
 ---
--->
 
 
 # Get Rich Quick "Business Blockchain" Bible (Manuscripts Book Edition)
@@ -20,12 +18,12 @@ by [Gerald Bauer](https://github.com/geraldb), et al
   - Step 1: Sell hot air. How?
   - Step 2: Pump up your tokens. How?
   - Step 3: Revolutionize the World. How?
-- [Background - Questions & Answers](manuscript/README.md#background---questions--answers)
+- [Background - Questions & Answers](manuscript/questions.md)
   - Q: How do Bitcoins differ from "Platform" Hot Air app tokens? 20-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
   - Q: What's an Initial Coin Offering (ICO) / Token Sales?
   - Q: What's a Token Sale Scam?
   - Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
-- [Fast Exit Case Studies](manuscript/README.md#fast-exit-case-studies)
+- [Fast Exit Case Studies](manuscript/fast-exit.md)
   - Savedroid (SVD) - $50m - Thanks Guys! Over and Out ... Next Stop the Mediterranean Sea / Beach
 - [Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies](manuscript/awesome-ico-truths.md)
   - Big Lie #1 - ICO tokens are like bitcoins
