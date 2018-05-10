@@ -1,6 +1,9 @@
+<!--
+
 See the live version @ [`bitsblocks.github.io/get-rich-quick-bible`](http://bitsblocks.github.io/get-rich-quick-bible)
 
 ---
+-->
 
 
 # Get Rich Quick "Business Blockchain" Bible (Manuscripts Book Edition)
