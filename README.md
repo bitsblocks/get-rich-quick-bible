@@ -32,6 +32,4 @@ by [Gerald Bauer](https://github.com/geraldb), et al
   - Big Lie #5 - ICO are endorsed by serious honest successful businessmen/women "advisors" (and A-B-C-celebrities) - Think-Yourself-Rich-Like-Us - Be a Winner
   - Big Lie #6 - ICO tokens are decentralized like bitcoins
   - More
-- [Disclaimer](manuscript/disclaimer.md)
-   - Short Version - Please Think For Yourself
-   - Long Version
+- [Disclaimer - Please Think For Yourself](manuscript/disclaimer.md)

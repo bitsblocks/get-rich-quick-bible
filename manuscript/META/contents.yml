@@ -1,0 +1,32 @@
+######################
+#  Table of Contents
+
+- title: Get Rich Quick - Step-by-Step
+  path:  manuscript/README.md
+  sections:
+  - title: 'Step 1: Sell hot air. How?'
+  - title: 'Step 2: Pump up your tokens. How?'
+  - title: 'Step 3: Revolutionize the World. How?'
+  - title: Background - Questions & Answers
+    sections:
+    - title: 'Q: How do Bitcoins differ from "Platform" Hot Air app tokens? 20-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales'
+    - title: "Q: What's an Initial Coin Offering (ICO) / Token Sales?"
+    - title: "Q: What's a Token Sale Scam?"
+    - title: 'Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?'
+  - title: Fast Exit Case Studies
+    sections:
+    - title: Savedroid (SVD) - $50m - Thanks Guys! Over and Out ... Next Stop the Mediterranean Sea / Beach
+
+- title: Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies
+  path:  manuscript/awesome-ico-truths.md
+  sections:
+  - title: 'Big Lie #1 - ICO tokens are like bitcoins'
+  - title: 'Big Lie #2 - ICOs are like IPOs'
+  - title: 'Big Lie #3 - ICO token go to the moon (like bitcoin)! Once-In-A-Lifetime Return-on-Investment (ROI) 50 000%'
+  - title: 'Big Lie #4 - ICO White Papers and Roadmaps with Milestones are like "Due Diligence" Investor Prospectus'
+  - title: 'Big Lie #5 - ICO are endorsed by serious honest successful businessmen/women "advisors" (and A-B-C-celebrities) - Think-Yourself-Rich-Like-Us - Be a Winner'
+  - title: 'Big Lie #6 - ICO tokens are decentralized like bitcoins'
+  - title: More
+
+- title: Disclaimer - Please Think For Yourself
+  path: manuscript/disclaimer.md
